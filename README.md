@@ -1,11 +1,11 @@
-# Online Counter 
+# 💻Online Counter 
 ![Online Counter - Google Chrome 10_03_2022 10_13_41](https://user-images.githubusercontent.com/69202361/157682870-1c187eca-7dfe-40c6-a8e3-9e906f76e60b.png)
 <div id="top"></div>
 
+## 🔗Project Link: [Online Counter](https://peaceful-liskov-6daa09.netlify.app/)
+
 
 <div id="top"></div>
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   </a>
