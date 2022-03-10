@@ -52,6 +52,3 @@ body {
 
 .button:hover {
   transform: scale(2.2); }
-
-.reset {
-  height: 100px; }
