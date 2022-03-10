@@ -52,8 +52,6 @@ Online counter is a simple counter where the user can count quickly, both from l
 
 Rosario Luca Linguanti - rosariolinguanti37@outlook.it
 
-Project Link: [Online Counter](https://peaceful-liskov-6daa09.netlify.app/)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
