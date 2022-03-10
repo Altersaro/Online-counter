@@ -30,7 +30,8 @@ body {
   background-color: rgba(255, 255, 255, 0.1) !important; }
 
 .icon {
-  font-size: 35px; }
+  font-size: 35px;
+  transition: ease-in-out; }
 
 .display-counter {
   height: 200px;
@@ -47,8 +48,7 @@ body {
 .button {
   display: flex !important;
   flex-direction: column;
-  justify-content: center;
-  transition: ease-in-out; }
+  justify-content: center; }
 
-.button:hover {
+.icon:hover {
   transform: scale(2.2); }
