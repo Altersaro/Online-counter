@@ -1,0 +1,57 @@
+@media screen and (max-width: 576px) {
+  body {
+    color: white !important; }
+  .card {
+    width: 100% !important; }
+  .counter-title {
+    font-size: 35px !important; }
+  .icon {
+    color: white !important; } }
+
+@media screen and (max-width: 992px) {
+  .card {
+    width: 100% !important; } }
+
+body {
+  background: #0d0f45;
+  background: linear-gradient(90deg, #0d0f45 0%, #e6e0bb 100%);
+  background-repeat: no-repeat; }
+
+.container-fluid {
+  height: 100vh; }
+
+.counter-title {
+  font-size: 60px;
+  margin: 0; }
+
+.card {
+  width: 50%;
+  height: 50%;
+  background-color: rgba(255, 255, 255, 0.1) !important; }
+
+.icon {
+  font-size: 35px; }
+
+.display-counter {
+  height: 200px;
+  width: 100%;
+  position: relative; }
+
+.counter-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 4rem;
+  transform: translate(-50%, -50%); }
+
+.button {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  transition: ease-in-out; }
+
+.button:hover {
+  transform: scale(2.2); }
+
+.reset {
+  height: 100px; }

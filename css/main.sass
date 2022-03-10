@@ -1,0 +1,50 @@
+//compileNested: $1.min.css
+@import "mediaquery"
+
+
+
+body
+ background: rgb(13,15,69)
+ background: linear-gradient(90deg, rgba(13,15,69,1) 0%, rgba(230,224,187,1) 100%)
+ background-repeat: no-repeat
+
+
+.container-fluid
+  height: 100vh
+
+
+.counter-title
+  font-size: 60px
+  margin: 0
+
+.card
+  width: 50%
+  height: 50%
+  background-color: rgba(255, 255, 255, .1)!important
+
+.icon
+  font-size: 35px
+
+.display-counter
+  height: 200px
+  width: 100%
+  position: relative
+
+.counter-text
+  position: absolute
+  top: 50%
+  left: 50%
+  font-size: 4rem
+  transform: translate(-50%, -50%)
+
+.button
+  display: flex!important
+  flex-direction: column
+  justify-content: center
+  transition:  ease-in-out
+
+.button:hover
+  transform: scale(2.2)
+
+.reset
+  height: 100px
